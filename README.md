@@ -57,7 +57,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatonit&show_icons=true&theme=gotham" alt="rajatonit" />
 
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatonit)](https://github.com/rajatonit/github-readme-stats)
-
-
 
