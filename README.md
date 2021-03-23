@@ -32,9 +32,6 @@ Hi, I'm [Rajat](), I'm a Computer Scientist whom loves building silly things tha
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/groovy/groovy.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/expressjs.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -60,6 +57,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajatonit&show_icons=true&theme=gotham" alt="rajatonit" />
 
+[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatonit)](https://github.com/rajatonit/github-readme-stats)
 
 
 
